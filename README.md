@@ -18,8 +18,8 @@ I pride myself on being extraordinarily innovative and have a fervent love for e
 📬 Contact Me
 
 - **Email**: thejaashwin@gmail.com 📧
-- **LinkedIn**: linkedin.com/in/theja-ashwin-632367289/ 🔗
-- **Portfolio**:https://odin-infinity.netlify.app/ 🌐
+- **LinkedIn**:[Theja Ashwin](linkedin.com/in/theja-ashwin-632367289/) 🔗
+- **Portfolio**:[My_Portfolio](https://odin-infinity.netlify.app/) 🌐
 
 
 Thank you for visiting my profile! 😊
