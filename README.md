@@ -1,4 +1,4 @@
-# Hi there, I'm Theja Ashwin 👋
+# Hi there, I'm Theja Ashwin 🌟🎮
 
 📖 About Me
 
