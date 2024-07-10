@@ -1,13 +1,13 @@
 # Hi there, I'm Theja Ashwin 👋
 
-## About Me
+📖 About Me
 
 I am a passionate game developer with expertise in Unity, Blender, HTML, CSS, JavaScript, and the MERN stack.
 I pride myself on being extraordinarily innovative and have a fervent love for exploring the latest advancements in MERN stack web development
 
-## Skills
+🛠️ Skills
 
-- 👀 I'm passionate in Game Developing
+- 👀 I'm passionate in ✨ Game Developing ✨
 - 🧩 **Game Development**: Unity
 - 💫 **3D Animation**: Blender
 - 🌱 I’m currently learning MERN Stack
@@ -15,7 +15,7 @@ I pride myself on being extraordinarily innovative and have a fervent love for e
 - ⚡ Developed a 2D game and Third Person games
 - 🏷️ **Others**: VsCode,Netlify,Git,LinuxOs
 
-## Contact Me
+📬 Contact Me
 
 - **Email**: thejaashwin@gmail.com
 - **LinkedIn**: linkedin.com/in/theja-ashwin-632367289/
