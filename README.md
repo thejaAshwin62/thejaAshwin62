@@ -9,7 +9,7 @@ I pride myself on being extraordinarily innovative and have a fervent love for e
 
 - 👀 I'm passionate in Game Developing
 - 🧩 **Game Development**: Unity
-- 💫 **3D Modeling**: Blender
+- 💫 **3D Animation**: Blender
 - 🌱 I’m currently learning MERN Stack
 - 📚 I’m interested to Research in Web Development
 - ⚡ Developed a 2D game and Third Person games
