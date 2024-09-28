@@ -13,7 +13,7 @@ I pride myself on being extraordinarily innovative and have a fervent love for e
 - 🌱 I’m currently learning MERN Stack
 - 📚 I’m interested to Research in Web Development
 - ⚡ Developed a 2D game and Third Person games
-- 🏷️ **Others**: VsCode, Netlify, Git, LinuxOs
+- 🏷️ **Others**: VsCode, Netlify, Git, LinuxOs, Render
 
 📬 Contact Me
 
