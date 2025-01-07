@@ -1,9 +1,9 @@
 # Hi there, I'm Theja Ashwin 🌟🎮
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thejaAshwin62/thejaAshwin62/output/github-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thejaAshwin62/thejaAshwin62/output/github-snake-background.svg" />
-<img alt="github-snake" src="https://raw.githubusercontent.com/thejaAshwin62/thejaAshwin62/output/github-snake-background.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cheshire137/cheshire137/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cheshire137/cheshire137/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/cheshire137/cheshire137/output/github-snake.svg" />
 </picture>
 
 
