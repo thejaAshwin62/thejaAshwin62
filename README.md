@@ -8,7 +8,7 @@
 
 📖 About Me
 
-I am a passionate game developer with expertise in Unity, Blender, HTML, CSS, JavaScript, and the MERN stack, My journey in 🎮 game development has been fueled in my childhood🌟immersive and engaging experiences that captivate players and leave a lasting impact,I am always eager to learn and implement new technologies that can enhance my projects 🚀
+I am a passionate web developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js), creating dynamic and impactful applications. 💻 With a flair for game development using Unity and Blender, I blend creativity and technology to craft immersive experiences. 🚀 Always eager to learn, I strive to push boundaries and bring ideas to life! 🌟
 
 # 💻 Tech Stack:
 
@@ -40,7 +40,7 @@ I am a passionate game developer with expertise in Unity, Blender, HTML, CSS, Ja
 
 - **Email**: thejaashwin@gmail.com 📧
 - **LinkedIn**:[Theja Ashwin](linkedin.com/in/theja-ashwin-632367289/) 🔗
-- **Portfolio**:[My_Portfolio](https://odin-infinity.netlify.app/) 🌐
+- **Portfolio**:[My_Portfolio](https://thejaashwin.me/) 🌐
 
 Thank you for visiting my profile! 😊
 
